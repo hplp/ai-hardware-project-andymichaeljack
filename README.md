@@ -1,26 +1,26 @@
-# Team Name: 
+## Team Name: 
 N/A
 
-# Team Members:
+## Team Members:
 - Andy Chen
 - Michael Sekyi
 - Jack Hebert
 
-# Project Title: 
+## Project Title: 
 N/A
 
-# Key Objective:
+## Key Objective:
 - Objective 1
 - Objective 2
 - Objective 3
 
-# Technology Stack
+## Technology Stack
 - Raspberry Pi + Hailo 8
 
-# Expected Outcomes:
+## Expected Outcomes:
 N/A
 
-# Timeline
+## Timeline
 N/A
 
 
