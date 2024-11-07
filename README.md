@@ -26,8 +26,11 @@ Using AI Hardware Acceleration to Detect Real-Time Crowd and Traffic Conditions
 
 ## Timeline
 Week 1: Planning and Research
+
 Week 2: Data Collection and Model Training
+
 Week 3: Model Optimization and Testing
+
 Week 4: System Integration and Deployment
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Buol6fpg)
