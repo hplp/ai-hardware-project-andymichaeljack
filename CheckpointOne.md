@@ -11,23 +11,22 @@
 - **Progress**:
   - Identified TensorFlow-based models suitable for categorizing crowd density levels (`Low`, `Medium`, `High`).
   - Dataset preparation in progress: Dataset for training images not yet available.
-  - Planned model architecture finalized: Convolutional Neural Network (CNN).
+  - Planned model: Convolutional Neural Network (CNN).
 
 - **Next Steps**:
-  - Collect training image from Engineer's way and proceed with model training.
+  - Collect training data from online or from sampling Engineer's way.
   - Convert the trained model to TensorFlow Lite format for deployment.
 
 ---
 
 ### **Responce to Feedback**
 - **Progress**:
-  - 
-  - 
+  - Considered dashboard deployment options: SMS message opt-in to alert users of traffic levels
+  - Model Training Data: Open source data from online, or sampling from real Engineer's way data
 
 ---
 
 ## Next Steps:
-- Collect and preprocess training images.
-- Train and validate the model on the identified architecture.
-- Write hardware integration scripts for inference on Hailo 8.
-- Test the computation module with the trained model.
+- Collect data and crowd images.
+- Train and validate the model.
+- Complete hardware integration for Raspberry Pi Hailo 8.
