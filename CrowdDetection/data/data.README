@@ -5,3 +5,17 @@ Sort by low, medium, and high crowd density
 70% of data in training
 20% of data in validation
 10% of data in test
+
+data/
+├── train/
+│   ├── low/
+│   ├── medium/
+│   ├── high/
+├── validation/
+│   ├── low/
+│   ├── medium/
+│   ├── high/
+└── test/
+    ├── low/
+    ├── medium/
+    ├── high/
