@@ -21,7 +21,7 @@ Using AI Hardware Acceleration to Detect Real-Time Crowd and Traffic Conditions
 ---
 
 ### Software Requirements
-- **Python**: Version 3.7 or later recommended.
+- **Python**: Version 3.7 or later recommended
 - Python Libraries:
   - TensorFlow 1.x (using `tensorflow.compat.v1`)
   - OpenCV (`opencv-python`)
@@ -48,7 +48,7 @@ Place your TensorFlow frozen graph file (`my_model.pb`) in the following path:
 ```
 
 ### 4. Prepare Test Images
-Place your test images (JPEG format) in the following directory:
+Place your test images (JPG format) in the following directory:
 ```
 ./data/images/test/
 ```
@@ -58,7 +58,7 @@ Place your test images (JPEG format) in the following directory:
 ## **Running the Script**
 
 ### 1. Open a Terminal
-Navigate to the repository folder.
+Navigate to the repository folder
 
 ### 2. Run the Script
 Execute the following command:
@@ -69,14 +69,17 @@ python people_counter.py
 ---
 
 ## **Results**
-- Processed images will be saved in the `./results/` folder.
+- Processed images will be saved in the `./results/` folder
 - Each image will display:
-  - Bounding boxes around detected people.
-  - The count of detected people.
-  - The crowd level (Low, Medium, High).
-
+  - Bounding boxes around detected people
+  - The count of detected people
+  - The crowd level (Low, Medium, High)
+ 
+- **Our Results**
+  - [Image 1](CrowdDetection/results/IMG_1650.jpg)
+  - [Image 2](CrowdDetection/results/crowd-inside-shopping-mall-protest-gathering-CBP35C.jpg)
+  - [Image 3](CrowdDetection/results/aerial-view-city-people-8ba3646909cce4de5bd4249134d24d63.jpg)
 ---
-
 
 
 
