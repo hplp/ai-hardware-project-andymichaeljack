@@ -81,7 +81,16 @@ python people_counter.py
   - [Image 3](CrowdDetection/results/aerial-view-city-people-8ba3646909cce4de5bd4249134d24d63.jpg)
 ---
 
+## **Troubleshooting**
 
+### Missing Model File Error
+Ensure the `my_model.pb` file is in the correct location (`./data/utils/`)
+
+### No Test Images Found
+Verify that the `./data/images/test/` directory contains `.jpg` images
+
+### Missing Results Folder
+If the script fails to save results, manually create the `./results/` folder
 
 
 
