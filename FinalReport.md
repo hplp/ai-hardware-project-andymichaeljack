@@ -79,6 +79,7 @@ python people_counter.py
   - [Image 1](CrowdDetection/results/IMG_1650.jpg)
   - [Image 2](CrowdDetection/results/crowd-inside-shopping-mall-protest-gathering-CBP35C.jpg)
   - [Image 3](CrowdDetection/results/aerial-view-city-people-8ba3646909cce4de5bd4249134d24d63.jpg)
+- Further results can be found in the `./results/` folder
 ---
 
 ## **Troubleshooting**
